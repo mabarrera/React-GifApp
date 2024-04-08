@@ -1,3 +1,3 @@
-export * from "./AddCategory"
-export * from "./GifGrid"
-export * from "./GifCard"
+export { default as AddCategory } from './AddCategory';
+export { default as GifGrid } from './GifGrid';
+export { default as GifCard } from './GifCard';
